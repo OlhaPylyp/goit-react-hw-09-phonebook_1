@@ -1,5 +1,5 @@
 import styles from "./AppBar.module.css";
-import phoneBook from "../../image/2.jpg";
+
 
 const HomePage = () => (
   <div className={styles.title}>
